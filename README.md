@@ -1,6 +1,9 @@
 # stm32h735g-dk
 stm32h735g-dk
 
+LED LD8 PF7
+CD mSD_Detect PF5 <-확인필요
+
 https://www.st.com/en/evaluation-tools/stm32h735g-dk.html
 
 [![STM32H735G-DK STMicroelectronics - Datasheet PDF & Technical Specs](https://tse4.mm.bing.net/th/id/OIP.T8yEtqF77IzZEUvCfWaWPQHaHa?r=0\&pid=Api)](https://partsearch.io/stmicroelectronics/stm32h735g-dk/)
